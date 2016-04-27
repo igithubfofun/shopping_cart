@@ -1,5 +1,5 @@
 var AllItems = React.createClass({
-  getInitialState() {
+getInitialState() {
     return {items: [] }
   },
   componentDidMount() {
